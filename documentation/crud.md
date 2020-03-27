@@ -1,4 +1,0 @@
-# Crud
-
-Coming soon ...
-
